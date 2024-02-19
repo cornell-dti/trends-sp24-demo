@@ -1,1 +1,1 @@
-# trends-sp24-demo
+# [SP24] Trends Demo
